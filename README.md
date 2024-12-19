@@ -1,6 +1,6 @@
-# Multi-Step Form Example
+# Multi-Step Form
 
-A simple and intuitive multi-step form implementation focused on user experience and accessibility.
+This project is a simple and intuitive multi-step form implementation focused on user experience and accessibility.
 
 ## Overview
 
